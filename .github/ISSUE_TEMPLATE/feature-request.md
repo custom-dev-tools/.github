@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Request a Feature
 about: Suggest a feature request for this product
 title: ''
 labels: enhancement
