@@ -1,5 +1,5 @@
 ---
-name: Issues Template
+name: Report an Issue
 about: Create a report to help me improve this product
 title: ''
 labels: under investigation
