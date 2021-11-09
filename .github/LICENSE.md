@@ -1,4 +1,6 @@
-MIT License
+# MIT License
+
+> This license pertains to CustomDevTools open source software only
 
 Copyright (c) 2021 CustomDevTools
 
