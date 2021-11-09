@@ -1,2 +1,5 @@
+# External funding platforms.
 github: custom-dev-tools
+
+# Custom funding urls.
 custom: ["https://www.buymeacoffee.com/customdevtools"]
