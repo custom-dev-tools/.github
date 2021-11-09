@@ -1,7 +1,7 @@
 ---
 name: Request a Feature
 about: Suggest a feature for this product
-title: 'Feature Request - '
+title: 'Feature Request: '
 labels: enhancement
 assignees: custom-dev-tools
 
