@@ -1,7 +1,7 @@
 ---
 name: Report an Issue
-about: Create a report to help me improve this product
-title: ''
+about: Report an issue agaist this product
+title: 'Issue: '
 labels: under investigation
 assignees: custom-dev-tools
 
