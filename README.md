@@ -4,3 +4,4 @@ This repository contains the [Default Community Health Files](https://docs.githu
 
 - [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md)
 - [FUNDING.yml](.github/FUNDING.yml)
+- [LICENSE.md](.github/LICENSE.md)
