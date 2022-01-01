@@ -2,7 +2,7 @@
 
 > This license pertains to CustomDevTools open source software only
 
-Copyright (c) 2021 CustomDevTools
+Copyright (c) 2022 CustomDevTools
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
